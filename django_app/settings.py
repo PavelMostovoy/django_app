@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-8hngs*4do8hk7hrslls0a$4^y_jn-c&w4^$xps2=s$l!1m#i2h
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['aqa.science']
 
 
 # Application definition
